@@ -13,7 +13,6 @@
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 [![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![Kitten](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](https://google.com)
 
 This repo is used as the basis for an [Egghead.io](https://egghead.io) series entitled: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
@@ -30,6 +29,11 @@ snakeToCamel('snake-case-string') // 'snakeCaseString'
 const testObj = {a: 1, b: 2}
 const copyObj = clone(testObj)
 ```
+
+Hello | World
+-|-
+Hola | Worlds
+Ello | Worldo
 
 ## LICENSE
 
